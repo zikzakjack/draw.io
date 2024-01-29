@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T07:13:18.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="g5lcvLRGQWntHv2euUpt" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-29T07:45:49.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qGOnLDBBysiFtE53jMDj" version="23.0.1" type="github">
   <diagram name="Page-1" id="8nnyvwg1OJDwXkxr4fhR">
     <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
         <mxCell id="v7ezRSgjE5N2eA1MSbQF-137" value="UBA - GCP &amp;amp; Splunk Integration: Proposed Architecture &lt;font color=&quot;#cc0000&quot;&gt;(2024 Q1)&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="352" y="517" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="v7ezRSgjE5N2eA1MSbQF-145" value="Index source_type=daily _data_&amp;lt;ENV&amp;gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="v7ezRSgjE5N2eA1MSbQF-145" value="Index sourcetype=daily _data_&amp;lt;ENV&amp;gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="603" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="TMQwXNu4n_8p-IpBZA00-6" value="Germany Alert" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.report;" parent="1" vertex="1">
