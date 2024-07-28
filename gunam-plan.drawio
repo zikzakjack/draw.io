@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-28T08:13:57.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="Tp0aWWSGodey-swA7IIL" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-28T08:38:42.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="1I-tKT7pZYlRiwDqf1H_" version="24.7.2" type="github">
   <diagram name="Page-1" id="B7xErgNoogPWDfR6X-HO">
     <mxGraphModel dx="1235" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,18 +75,36 @@
         </mxCell>
         <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="440" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="sourcePoint" />
             <mxPoint x="520" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="483.68" y="330" width="37.65" height="40" as="geometry" />
+          <mxGeometry x="480" y="320" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="522.35" y="240" width="37.65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="522.35" y="440" width="37.65" height="40" as="geometry" />
+          <mxGeometry x="484.70000000000005" y="440" width="37.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-8" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="570" y="370" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="440" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hrq_1GXAN5ZCvxnMoxzi-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairsRest;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="30" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
